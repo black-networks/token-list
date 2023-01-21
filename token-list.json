@@ -9,11 +9,11 @@
   "tokens": [
     {
       "chainId": 1488,
-      "address": "https://cdn.jsdelivr.net/gh/black-networks/token-list@main/m-bigwallet.svg",
+      "address": "0x15E628BF785167c080e58d9cCe800471B2d5e77c",
       "name": "Wrapped BlackChain",
       "symbol": "WBLACK",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://cdn.jsdelivr.net/gh/black-networks/token-list@main/m-bigwallet.svg"
     }
   ],
   "version": {
