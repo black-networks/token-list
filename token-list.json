@@ -14,7 +14,16 @@
       "symbol": "WBLACK",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/black-networks/token-list@main/m-bigwallet.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0xa2F1a99a74d4cc072B810b1696239e4Dd76221C4",
+      "name": "Black Token",
+      "symbol": "BLACK",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/black-networks/token-list@main/m-bigwallet.svg"
     }
+    
   ],
   "version": {
     "major": 2,
